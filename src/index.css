@@ -1,0 +1,10 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+/*	 anytime you add padding to any element that padding will stretch the page and we don't want that, it can force a horizental scroll bar
+	 prevents padding extra width or extra height to the page*/
